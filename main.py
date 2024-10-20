@@ -1,1 +1,3 @@
-from src.wineQuality.config.configuration import main
+from wineQuality import logger
+
+logger.info("My name is Eya!")
